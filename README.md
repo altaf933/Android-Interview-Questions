@@ -75,7 +75,7 @@ Topics:
 * What is AIDL? [[info]](https://developer.android.com/guide/components/aidl.html)
 * What is dependency injection? 
 * What are the different protection levels in permission? [[info]](https://developer.android.com/guide/topics/manifest/permission-element.html)
-* 
+* Android O features and API.[[info]](https://developer.android.com/preview/api-overview.html) 
 
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
